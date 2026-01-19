@@ -83,7 +83,7 @@ Available in PowerBi_images/
 * Attendance and engagement trend calculations
 
 📄 *SQL File:*
-project_edTech_query.sql
+PROJECT_EDTECH_QUERY.sql
 
 📁 *SQL Output Screenshots:*
 Available in Sql_outputs/
