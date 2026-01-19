@@ -90,7 +90,7 @@ Available in Sql_outputs/
 
 ---
 📌 *Complete SQL Query Script:* 
-👉 *[Advanced_SQL_Project.sql](project_edTech_query.sql)*
+👉 *[PROJECT_EDTECH_QUERY.sql](project_edTech_query.sql)*
 ### 📊 Query Output Snapshots
 
 *📊 Query Output Snapshots*
